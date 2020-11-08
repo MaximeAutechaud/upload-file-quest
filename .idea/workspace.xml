@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74ec6948-64ff-4544-aa09-7dcff7145821" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jjJf2hoMqha1Lvz7fzLywx3Qci" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74ec6948-64ff-4544-aa09-7dcff7145821" name="Default Changelist" comment="" />
+      <created>1604311667136</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604311667136</updated>
+      <workItem from="1604311668206" duration="2066000" />
+      <workItem from="1604355562521" duration="16000" />
+      <workItem from="1604566834191" duration="1729000" />
+      <workItem from="1604569652599" duration="19000" />
+      <workItem from="1604774782845" duration="3405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1984" y="341" width="674" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604850131889">
+      <screen x="67" y="27" width="3219" height="1053" />
+    </state>
+    <state x="1984" y="341" width="674" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.3219.1053@67.27.3219.1053" timestamp="1604850131889" />
+    <state x="2005" y="185" width="424" height="484" key="FileChooserDialogImpl" timestamp="1604569669534">
+      <screen x="1366" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2005" y="185" key="FileChooserDialogImpl/67.27.1299.741/1366.0.1920.1080@1366.0.1920.1080" timestamp="1604569669534" />
+    <state x="499" y="154" width="424" height="484" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1604355575797" />
+    <state x="330" y="78" width="762" height="637" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1604311691692">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="330" y="78" width="762" height="637" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/67.27.1299.741@67.27.1299.741" timestamp="1604311691692" />
+  </component>
+</project>
